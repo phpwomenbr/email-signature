@@ -3,7 +3,7 @@
         <tr>
             <td style="width:133px;text-align: center;border-right: 2px solid #7C7B7B;">
                 <a href="http://phpwomen.org.br/">
-                    <img alt="Logo" src="assets/logo.png">
+                    <img alt="Logo" src="https://raw.githubusercontent.com/phpwomenbr/email-signature/main/assets/logo.png">
                 </a>
             </td>
             <td style="width:181px;vertical-align:middle;padding-left: 15px;">
