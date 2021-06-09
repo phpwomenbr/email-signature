@@ -1,14 +1,13 @@
-[<img src="assets/g12.png" align="center" width="300">](https://librecode.coop)
+[<img src="assets/logo.png" align="center" width="300">](https://phpwomen.org.br)
 
 <h1 align="center"> E-mail Signaturue </h1>
 
-<p>Model of email signature for librecode members</p>
+<p>Model of email signature for PHPWomenBR members</p>
 
 <!--ts-->
  * [How to use](#how-to-use)
    * [Personal Description](#field-for-personal-descriptions)
    * [Social Networks](#field-for-social-networks)
- * [Example](#example)
 <!--te-->
 
 # How to use
@@ -19,10 +18,10 @@
 
 | Line | Description| Attribute |
 |:------|:----------|:---|
-| [11](https://github.com/LyseonTech/email-signature/blob/5779b5d3cb5437c6f5684982af03216c3d5f887e/email.html#L11)   | Name      |
-| [15](https://github.com/LyseonTech/email-signature/blob/5779b5d3cb5437c6f5684982af03216c3d5f887e/email.html#L15)   | Office    |
-| [19](https://github.com/LyseonTech/email-signature/blob/5779b5d3cb5437c6f5684982af03216c3d5f887e/email.html#L19)   | Number    | href |
-| [20](https://github.com/LyseonTech/email-signature/blob/5779b5d3cb5437c6f5684982af03216c3d5f887e/email.html#L20)   | Number    |
+| [11](https://github.com/PHPWomenBR/email-signature/blob/5779b5d3cb5437c6f5684982af03216c3d5f887e/email.html#L11)   | Name      |
+| [15](https://github.com/PHPWomenBR/email-signature/blob/5779b5d3cb5437c6f5684982af03216c3d5f887e/email.html#L15)   | Office    |
+| [19](https://github.com/PHPWomenBR/email-signature/blob/5779b5d3cb5437c6f5684982af03216c3d5f887e/email.html#L19)   | Number    | href |
+| [20](https://github.com/PHPWomenBR/email-signature/blob/5779b5d3cb5437c6f5684982af03216c3d5f887e/email.html#L20)   | Number    |
 
 #
 
@@ -30,13 +29,9 @@
 
 | Line  | Description | Attribute |
 | :-----| :-----------| :---- |
-| [24](https://github.com/LyseonTech/email-signature/blob/5779b5d3cb5437c6f5684982af03216c3d5f887e/email.html#L24)   | WebSite    | href |
-| [26](https://github.com/LyseonTech/email-signature/blob/5779b5d3cb5437c6f5684982af03216c3d5f887e/email.html#L26)   | Linkedin   | href | 
-| [28](https://github.com/LyseonTech/email-signature/blob/5779b5d3cb5437c6f5684982af03216c3d5f887e/email.html#L28)   | Twitter    | href |
-| [30](https://github.com/LyseonTech/email-signature/blob/5779b5d3cb5437c6f5684982af03216c3d5f887e/email.html#L30)   | Instagram  | href |
-| [32](https://github.com/LyseonTech/email-signature/blob/5779b5d3cb5437c6f5684982af03216c3d5f887e/email.html#L32)   | Github     | href |
-| [34](https://github.com/LyseonTech/email-signature/blob/5779b5d3cb5437c6f5684982af03216c3d5f887e/email.html#L34)   | Telegram   | href |
-
-# Example
-#
-<img src="assets/location-p.png">
+| [24](https://github.com/PHPWomenBR/email-signature/blob/5779b5d3cb5437c6f5684982af03216c3d5f887e/email.html#L24)   | WebSite    | href |
+| [26](https://github.com/PHPWomenBR/email-signature/blob/5779b5d3cb5437c6f5684982af03216c3d5f887e/email.html#L26)   | Linkedin   | href | 
+| [28](https://github.com/PHPWomenBR/email-signature/blob/5779b5d3cb5437c6f5684982af03216c3d5f887e/email.html#L28)   | Twitter    | href |
+| [30](https://github.com/PHPWomenBR/email-signature/blob/5779b5d3cb5437c6f5684982af03216c3d5f887e/email.html#L30)   | Instagram  | href |
+| [32](https://github.com/PHPWomenBR/email-signature/blob/5779b5d3cb5437c6f5684982af03216c3d5f887e/email.html#L32)   | Github     | href |
+| [34](https://github.com/PHPWomenBR/email-signature/blob/5779b5d3cb5437c6f5684982af03216c3d5f887e/email.html#L34)   | Telegram   | href |
